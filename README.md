@@ -28,3 +28,6 @@
 
 - [코드](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/e2313ac880d09b2b3df0a3ec4178573eba56deb6/%EB%AA%A8%EB%8D%B8_%EC%BD%94%EB%93%9C.py) 
 - [개발 설명서](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/e2313ac880d09b2b3df0a3ec4178573eba56deb6/%EB%AA%A8%EB%8D%B8_%EC%84%A4%EB%AA%85.ipynb)
+
+## 본선 제출 자료
+- [아이디어 제안서](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/b96ab76366752dbba72cc10d17d032a9fc1aafb3/%EB%AF%BC%ED%8A%B8%EB%A7%9B%EB%B3%B4%EB%9D%BC.pdf)
