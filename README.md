@@ -10,6 +10,7 @@
 
 ## 본선 제출 자료
 - [아이디어 제안서](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/b96ab76366752dbba72cc10d17d032a9fc1aafb3/%EB%AF%BC%ED%8A%B8%EB%A7%9B%EB%B3%B4%EB%9D%BC.pdf)
+<br>
 
 ## 분석 주제
 주식 보유기간 예측 및 서비스 아이디어 제안
