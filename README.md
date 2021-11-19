@@ -2,6 +2,15 @@
 - 본선 진출
 <br>
 
+## 예선 제출 자료
+
+- [코드](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/e2313ac880d09b2b3df0a3ec4178573eba56deb6/%EB%AA%A8%EB%8D%B8_%EC%BD%94%EB%93%9C.py) 
+- [개발 설명서](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/e2313ac880d09b2b3df0a3ec4178573eba56deb6/%EB%AA%A8%EB%8D%B8_%EC%84%A4%EB%AA%85.ipynb)
+<br>
+
+## 본선 제출 자료
+- [아이디어 제안서](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/b96ab76366752dbba72cc10d17d032a9fc1aafb3/%EB%AF%BC%ED%8A%B8%EB%A7%9B%EB%B3%B4%EB%9D%BC.pdf)
+
 ## 분석 주제
 주식 보유기간 예측 및 서비스 아이디어 제안
 - 예선 : 다양한 데이터를 활용하여 고객이 보유한 주식 종목 별 보유기간 예측
@@ -23,11 +32,3 @@
 
 > LGBM Regressor 모델을 사용하여 모델링 진행
 <br>
-
-## 예선 제출 자료
-
-- [코드](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/e2313ac880d09b2b3df0a3ec4178573eba56deb6/%EB%AA%A8%EB%8D%B8_%EC%BD%94%EB%93%9C.py) 
-- [개발 설명서](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/e2313ac880d09b2b3df0a3ec4178573eba56deb6/%EB%AA%A8%EB%8D%B8_%EC%84%A4%EB%AA%85.ipynb)
-
-## 본선 제출 자료
-- [아이디어 제안서](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition/blob/b96ab76366752dbba72cc10d17d032a9fc1aafb3/%EB%AF%BC%ED%8A%B8%EB%A7%9B%EB%B3%B4%EB%9D%BC.pdf)
